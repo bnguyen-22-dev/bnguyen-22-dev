@@ -25,7 +25,7 @@ I am pursuing a career in **ASIC Design Verification**, with interests in **Syst
 | [**APB RAM UVM**](https://github.com/bnguyen-22-dev/APB-Ram-uvm) | Complete UVM verification environment for an APB RAM controller |
 | [**UART UVM**](https://github.com/bnguyen-22-dev/UART-uvm) | UVM-based verification environment for a configurable UART |
 | [**SPI UVM**](https://github.com/bnguyen-22-dev/SPI-uvm) | UVM verification environment for an SPI controller |
-| [**Wishbone Memory Verification**](https://github.com/bnguyen-22-dev/wishbone-memory-verification) | Functional verification of a Wishbone memory interface |
+| [**Pulse counter module UVM**](https://github.com/bnguyen-22-dev/pulse-counter-uvm) | Complete UVM verification environment for an pulse counter module |
 
 
 ---
